@@ -7,8 +7,7 @@ public class EvenFibonacciNumbers {
 		int num1 = 0;
 		int num2 = 1;
 		int sum = 0;
-		int temp = 0;
-		
+		int temp = 0;	
 
 		do { // Check 2nd number to see if it's even, and if so, add it to the sum
 			if (num2 % 2 == 0){
@@ -24,5 +23,4 @@ public class EvenFibonacciNumbers {
 		// print the sum of all even Fibonacci numbers from 0 to 4 million
 		System.out.println(sum);
 	}
-
 }
