@@ -1,2 +1,2 @@
 # ProjectEulerSolutions
-My Project Euler solutions written in Java.
+My self-programmed Project Euler solutions written in Java. https://projecteuler.net
